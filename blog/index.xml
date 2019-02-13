@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on First-Gear.be</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on First-Gear.be</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction</title>
+      <link>/blog/introdution/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/introdution/</guid>
+      <description>This is the fist post on my new blog website. I&amp;rsquo;ll try to post some content more regularly than I used to do. Blogging is harde than you think.
+Fortunately I have already prepared some content for you to browse to. Check the Movies section of the website. In that section I have put all of the movies I have at my disposal.</description>
+    </item>
+    
+  </channel>
+</rss>
